@@ -1,0 +1,24 @@
+{
+  "name": "claude-desktop-debian",
+  "version": "1.0.0",
+  "description": "I've had fun with this, but I'm ready to pass the torch. Let me know if you'd like to take a swing at this!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaddrick/claude-desktop-debian.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/aaddrick/claude-desktop-debian/issues"
+  },
+  "homepage": "https://github.com/aaddrick/claude-desktop-debian#readme",
+  "devDependencies": {
+    "electron": "^35.1.2"
+  }
+}
